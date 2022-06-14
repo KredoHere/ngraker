@@ -37,7 +37,7 @@ This is an explaination of available config:\
 Discord:
 
 ```bash
-  discord_token = Your bot token You can find on discord developer portal.
+discord_token = Your bot token You can find on discord developer portal.
 ```
 ```bash
 discord_channel = ID of channel Your bot will send automatic messages. 
