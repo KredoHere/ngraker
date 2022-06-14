@@ -23,7 +23,7 @@ hostname = "name of your noip hostname(for example - pastel.ddns.net)"
 
 hi = [
     'hi',
-	'hey',
+    'hey',
     'hello',
     'Hello!',
     'Hey, how are You?',
